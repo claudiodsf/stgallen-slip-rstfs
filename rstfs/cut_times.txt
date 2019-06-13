@@ -1,0 +1,9 @@
+# Relative Source Time Function cut times
+#
+# station p_cut_time s_cut_time
+SGT00     0.056      0.072
+SGT02     0.040      0.046
+SGT03     0.080      0.084
+SGT04     0.079      0.092
+SGT05     0.043      0.038
+SGT06     0.034      0.032
