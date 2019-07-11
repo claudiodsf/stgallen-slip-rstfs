@@ -11,4 +11,5 @@ Relative Source Time Functions (RSTFs) for the 2013 Mw 3.3 St. Gallen earthquake
 - See `plot_rstfs.py` for a sample plotting script
 
 
-Reference: Király-Proag et al., GRL, 2019
+### Reference
+Király‐Proag, E., Satriano, C., Bernard, P., & Wiemer, S. (2019). Rupture process of the Mw 3.3 earthquake in the St. Gallen 2013 geothermal reservoir, Switzerland. Geophysical Research Letters, 46, doi: [10.1029/2019GL082911](https://doi.org/10.1029/2019GL082911)

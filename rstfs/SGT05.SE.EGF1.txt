@@ -1,11 +1,12 @@
 # Relative Source Time Function
 # for the 2013 Mw 3.3 St. Gallen earthquake
 # Király-Proag et al., GRL, 2019
-# 
+# https://doi.org/10.1029/2019GL082911
+#
 # Station: SGT05
 # Wave type: SE
 # EGF: EGF1
-# 
+#
 # time(s) amp(N.m/s)
 0.000000        0
 0.002500  5.70219e+13

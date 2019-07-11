@@ -1,25 +1,26 @@
 # Slip model for the 2013 Mw 3.3 St. Gallen earthquake
 # Király-Proag et al., GRL, 2019
-# 
+# https://doi.org/10.1029/2019GL082911
+#
 # Hypocenter lat: 47.421073
 # Hypocenter lon: 9.319911
 # Hypocenter depth: 4332 m
-# 
+#
 # Fault strike: 32°N
 # Fault dip: 84°
-# 
+#
 # 19881 points:
 #    141 points along strike (S direction, positive right)
 #    141 points along dip (D direction, positive up)
 #    delta_S: 5 m
 #    delta_D: 5 m
-# 
+#
 # X and Y coordinates respect to the hypocenter
 # Z coordinate respect to the surface (negative down)
-# 
+#
 # Rupture velocity: 2000 m/s
 # Trup: rupture time in seconds
-# 
+#
 # S(m)   D(m)       lon       lat    X(m)   Y(m)    Z(m)         slip(m)   Trup(s)
 -350.0 -350.0  9.317042 47.418578  -216.5 -277.4 -4680.1  0.00000000e+00  0.247487
 -345.0 -350.0  9.317077 47.418616  -213.8 -273.2 -4680.1  0.00000000e+00  0.245726

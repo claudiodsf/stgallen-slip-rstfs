@@ -6,4 +6,4 @@ This repository provides the slip model for the 2013 Mw 3.3 St. Gallen earthquak
 
 For more information, see the paper:
 
-Király-Proag, E., Satriano, C., Bernard, P., & Wiemer, S. (2019). Rupture process of the Mw 3.3 earthquake in the St. Gallen 2013 geothermal reservoir, Switzerland, Geophys. Res. Lett.
+Király‐Proag, E., Satriano, C., Bernard, P., & Wiemer, S. (2019). Rupture process of the Mw 3.3 earthquake in the St. Gallen 2013 geothermal reservoir, Switzerland. Geophysical Research Letters, 46, doi: [10.1029/2019GL082911](https://doi.org/10.1029/2019GL082911)
